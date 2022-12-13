@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-Title = "check discord"; -- the title (ofc)
-Text = "check discord"; -- what the text says (ofc)
-Icon = "rbxassetid://57254792"; -- the image if u want. 
-Duration = 15; -- how long the notification should in secounds
+Title = "check discord";
+Text = "check discord"; 
+Icon = "rbxassetid://57254792";
+Duration = 15;
 })
