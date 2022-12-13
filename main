@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
 Title = "check discord";
-Text = "check discord"; 
+Text = "check simplity discord's announcement"; 
 Icon = "rbxassetid://57254792";
 Duration = 15;
 })
